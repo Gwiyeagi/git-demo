@@ -1,5 +1,11 @@
 lalalalala
 lalalallal
-okekokekoekke
+
 okeokeokeoke
+<<<<<<< HEAD
 ---------------------------------
+=======
+
+bambambambam
+slkjclksc
+------------------------
