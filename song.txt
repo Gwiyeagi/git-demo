@@ -2,10 +2,9 @@ lalalalala
 lalalallal
 
 okeokeokeoke
-<<<<<<< HEAD
----------------------------------
-=======
 
-bambambambam
-slkjclksc
-------------------------
+
+lalalalala
+lalalallal
+
+okeokeokeoke
